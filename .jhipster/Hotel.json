@@ -1,0 +1,22 @@
+{
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "descricao",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "endereco",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20160927042622",
+  "entityTableName": "hotel",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no"
+}
